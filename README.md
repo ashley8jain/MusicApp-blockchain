@@ -1,7 +1,8 @@
 # mediaStore
 > What is it?
 
-A Blockchain implmentation of a Media Store. Implmented with Ethereum Smart-Contract.
+A Blockchain implmentation of a Media Store. Implmented with Ethereum Smart-Contract. 
+[Medium Blog](https://medium.com/@srirambandi/my-blockchain-decentralized-application-for-music-industry-ee9ae58f885f)
 
 ## Run on your machine:
 
